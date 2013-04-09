@@ -48,7 +48,7 @@ HTTP Requests are expensive and slow the rendering of a page, so minimise them. 
 
 ### Always Minimise CSS
 
-Minifying code can save up to 60% on a files size.  Use a tool like [CodeKit](http://incident57.com/codekit/) to manage this and its easy-peasy.
+Minifying code can save up to 60% on a files size.  Use a tool like [CodeKit](http://incident57.com/codekit/) or automate this task using Grunt to manage this and its easy-peasy.
 
 Source: [Google Page Speed on Minifying CSS](https://developers.google.com/speed/docs/best-practices/payload#MinifyCSS)
 
